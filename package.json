@@ -1,0 +1,12 @@
+{
+  "name": "fastiseven",
+  "version": "1.0.0",
+  "description": "A fast way to check if a number is even, though only about 50% accurate",
+  "main": "isEven.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
